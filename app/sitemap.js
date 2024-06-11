@@ -1,7 +1,7 @@
 // app/sitemap.js
 
 // L'URL de votre site
-const URL = "https://www.couvreur-loudeac.fr"
+const URL = "https://www.toitures-et-travaux.fr"
 
 // Vos routes statiques
 const SITE_ROUTES = ["", "/contact", "/entretien", "/fuite", "/reparation", "/travaux-divers"]

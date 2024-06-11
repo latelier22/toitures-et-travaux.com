@@ -8,7 +8,7 @@ import Footer from './Footer';
 const Home = () => {
   // Dynamic metadata for the home page
   const pageTitle = 'Accueil';
-  const pageDescription = 'Bienvenue sur le site de PRO COUVERTURE LOUDEAC';
+  const pageDescription = 'Bienvenue sur le site de TOITURES ET TRAVAUX';
 
   // Liste globale des actions avec les liens vers les pages correspondantes
   const globalActions = [

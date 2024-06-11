@@ -5,8 +5,8 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const siteMetadata = {
-  title: 'Couvreur à Loudéac',
-  description: 'PRO COUVREUR ET NETTOYAGE - Dave MIQUEL- 0780604044',
+  title: 'Couvreur QUESTEMBERT - JOSSELIN - PLOERMEL - MALESTROIT',
+  description: 'TOITURES ET TRAVAUX - Dave MIQUEL- 0606427008',
 };
 
 export default function RootLayout({ children, pageTitle, pageDescription }) {
