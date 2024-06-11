@@ -26,18 +26,18 @@ const HeaderSimple = () => {
       <div className="bg-black px-6 py-6 text-center text-neutral-800 dark:bg-neutral-700 dark:text-neutral-200">
         <div className="flex flex-col  lg:flex-row first-letter:lg:justify-around  justify-center items-center">
         <div className="hidden md:block">
-          <img src="logo-sans-fond.png" className="rounded-full w-10  md:w-40 lg:w-96 h-auto" alt="" />
+          <img src="logo-sans-fond.png" className="rounded-1 w-10  md:w-40 lg:w-96 h-auto" alt="" />
         </div>
         
         <div className="flex-col justify-center">
         <h1 className="mb-6 text-white  text-5xl font-bold">
-          PRO COUVREUR ET NETTOYAGE
+          TOITURES ET TRAVAUX
         </h1>
         <h3 className="mb-8 text-orange-500 text-3xl font-bold">
-          Loudéac et ses alentours
+        QUESTEMBERT, JOSSELEIN, PLOERMEL, MALESTROIT et ses environs
         </h3>
         <a
-          className="inline-block rounded  bg-orange-500 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-[0_4px_9px_-4px_#3b71ca] transition duration-150 ease-in-out hover:bg-primary-600 hover:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] focus:bg-primary-600 focus:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)]"
+          className="inline-block rounded  bg-lime-500 px-6 pb-2 pt-2.5 text-xs font-medium uppercase leading-normal text-white shadow-[0_4px_9px_-4px_#3b71ca] transition duration-150 ease-in-out hover:bg-primary-600 hover:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] focus:bg-primary-600 focus:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)] focus:outline-none focus:ring-0 active:bg-primary-700 active:shadow-[0_8px_9px_-4px_rgba(59,113,202,0.3),0_4px_18px_0_rgba(59,113,202,0.2)]"
           data-te-ripple-init
           data-te-ripple-color="light"
           href="/contact"

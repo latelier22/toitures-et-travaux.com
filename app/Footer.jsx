@@ -122,16 +122,17 @@ const Footer = () => {
               Qui sommes-nous?
             </h5>
 
-            <ul className="mb-0 list-none text-yellow-500">
-              <li>PRO COUVREUR ET NETTOYAGE</li>
-              <li>Dave MIQUEL</li>
-              <li>0780604044</li>
-              <li className=" text-white">N° de SIRET 88464374300013</li>
+            <ul className="mb-0 list-none text-lime-500">
+              <li>TOITURES ET TRAVAUX</li>
+              <li>Isamel DAUBER</li>
+              <li>0606427008</li>
+              <li>contact@toitures-et-travaux.com</li>
+              <li className=" text-white">N° de SIRET 905 401 105 00010</li>
             </ul>
           </div>
 
           <div className="mb-6 flex-col flex items-center">
-            <h5 className="mb-2.5 font-bold text-yellow-500 dark:text-neutral-200">
+            <h5 className="mb-2.5 font-bold text-orange-500 dark:text-neutral-200">
               DEVIS GRATUIT !
             </h5>
             <img src="photo-devis-gratuit.png" className="h-60  " alt="..." />
@@ -147,7 +148,7 @@ const Footer = () => {
                 <li key={index}>
                   <a
                     href={menuItem.route}
-                    className=" text-orange-500 hover:text-yellow-500 dark:text-neutral-200"
+                    className=" text-orange-500 hover:text-orange-500 dark:text-neutral-200"
                   >
                     {menuItem.label}
                   </a>

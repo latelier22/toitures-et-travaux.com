@@ -36,10 +36,10 @@ const Home = () => {
       <HeaderSimple />
       
       <section className="container mx-auto mt-8 p-4 bg-gray-100">
-        <h1 className="text-4xl font-bold mb-4">Bienvenue chez PRO COUVERTURE LOUDEAC</h1>
+        <h1 className="text-4xl font-bold mb-4">Bienvenue chez TOITURES ET TRAVAUX </h1>
 
         <p className="text-lg mb-4">
-          Nous sommes fiers de vous offrir des services de couverture de haute qualité à Loudéac et ses environs. Avec une équipe d&apos;experts dévoués, nous nous engageons à fournir des solutions exceptionnelles pour répondre à vos besoins en matière de toiture.
+          Nous sommes fiers de vous offrir des services de couverture de haute qualité à QUESTEMBERT, JOSSELEIN, PLOERMEL, MALESTROIT et ses environs. Avec une équipe d&apos;experts dévoués, nous nous engageons à fournir des solutions exceptionnelles pour répondre à vos besoins en matière de toiture.
         </p>
 
         <p className="text-lg mb-4">
