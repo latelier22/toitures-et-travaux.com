@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const siteMetadata = {
   title: 'Couvreur QUESTEMBERT - JOSSELIN - PLOERMEL - MALESTROIT',
-  description: 'TOITURES ET TRAVAUX - Dave MIQUEL- 0606427008',
+  description: 'TOITURES ET TRAVAUX - DAUBER Ismael- 0606427008',
 };
 
 export default function RootLayout({ children, pageTitle, pageDescription }) {
@@ -43,7 +43,7 @@ export default function RootLayout({ children, pageTitle, pageDescription }) {
 
 // export const metadata = {
 //   title: 'Couvreur à Loudéac',
-//   description: 'PRO COUVREUR ET NETTOYAGE - Dave MIQUEL- 0780604044',
+//   description: 'TOITURES ET TRAVAUX - DAUBER Ismael- 0606427008',
 // };
 
 // export default function RootLayout({ children, pageTitle, pageDescription }) {
